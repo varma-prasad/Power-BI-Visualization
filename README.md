@@ -7,7 +7,8 @@
 * [Office Supplies - Sales Report](#office-supplies)
 * [Unemployment Stats](#unemployment-stats)
 * [SuperMart Sales](#sales-dashboard)
-* [Bank Customer Details](#bank-customer-details) 
+* [Bank Customer Details](#bank-customer-details)
+* [Euro Debt Crisis](#euro-debt-crisis)
 
 ### Overview
 
@@ -52,3 +53,13 @@ Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Da
 * Created attractive dashboard using Name cards, Pie chart, Tree map and Filled Map
 
 ![Bank Customers](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Bank%20Cusomers.PNG)
+
+## Euro Debt Crisis
+
+Inport [CSV]{https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-EuroDebtCrisis.csv) file into Power BI and Generate [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/EuroDebt%20Crissis.pdf)
+
+* Analyse Creditor and Debtor amout across each nation in the Europe continent against thir Risk status.
+* Chord and Tree Map used to understand credit/ debit given/recieved by each nation with respect to other nations and visualise their risk status
+
+![Debt Crisis](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Debt%20crisis.PNG)
+
