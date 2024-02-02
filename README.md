@@ -21,7 +21,6 @@ Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Da
 * Quarterly, Monthly and yearly sales report. Granular information can be explored with Heirarchies and Data drill options.
 * Understand which region has max/min sales and which Representative have made Max/Min sales.
 
-
 ![Sales](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Sales.jpg)
 
 ## Unemployment Stats
@@ -34,6 +33,7 @@ Import [Excel](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/
 
 ![Unemployment](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Unemployment.PNG)
 
+
 ## Sales Dashboard 
 
 Import [Excel](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-AmazingMartEU2Geo.xlsx) file into Power BI and Generate [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Supermartsales.pdf)
@@ -44,6 +44,7 @@ Import [Excel](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/
 
 ![Multiple_tables](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Multiple_tables.PNG) 
 ![Sales_Dashboard](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/sales_dashboard.PNG)
+
 
 ## Bank Customer Details
 
@@ -63,3 +64,18 @@ Inport [CSV]{https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Da
 
 ![Debt Crisis](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Debt%20crisis.PNG)
 
+----
+
+## 🛠 Tools used
+![](https://img.shields.io/badge/Power_BI-v2.124.2028.0-blue)
+
+## Authors
+
+- [Varma Prasad S](https://github.com/varma-prasad)
+
+## 🛠 Skills
+SQL, ETL, Python, Power BI...
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varma-prasad-s/)
