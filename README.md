@@ -6,7 +6,8 @@
 * [Overview](#overview)
 * [Office Supplies - Sales Report](#office-supplies)
 * [Unemployment Stats](#unemployment-stats)
-* [SuperMartSales](#sales-dashboard)
+* [SuperMart Sales](#sales-dashboard)
+* [Bank Customer Details](#bank-customer-details) 
 
 ### Overview
 
@@ -42,3 +43,12 @@ Import [Excel](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/
 
 ![Multiple_tables](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Multiple_tables.PNG) 
 ![Sales_Dashboard](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/sales_dashboard.PNG)
+
+## Bank Customer Details
+
+Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-UK-Bank-Customers.csv) file into Power BI and Generate [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Bank%20Customers.pdf)
+
+* Visualise customer distribution across age and bank-balance
+* Created attractive dashboard using Name cards, Pie chart, Tree map and Filled Map
+
+![Bank Customers](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Bank%20Cusomers.PNG)
