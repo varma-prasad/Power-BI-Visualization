@@ -5,6 +5,7 @@
 
 * [Overview](#overview)
 * [Office Supplies - Sales Report](#Office-Supplies)
+* [Unemployment Stats](#Unemployment-Stats)
 
 ### Overview
 
@@ -20,3 +21,12 @@ Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Da
 
 ![Sales](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Sales.jpg)
 
+## Unemployment Stats
+
+Import [Excel](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-Long-Term-Unemployment-Statistics.xlsx) file into Power BI and generated [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/UnemploymentStats.pdf)
+* Unemployment details across gender, age category and time period is visualised from Area chart and line chart via time-series data
+* slicers and filters added to understand data according to different parameters present in Dataset
+* spike in Unemployment witnessed in the visuals
+
+
+![Unemployment](https://raw.githubusercontent.com/varma-prasad/Power-BI-Visualization/main/Images/Unemployment.PNG)
