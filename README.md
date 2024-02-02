@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Office Supplies-Sales Report](#Office-Supplies)
+* [Office Supplies - Sales Report](#Office-Supplies)
 
 ### Overview
 
