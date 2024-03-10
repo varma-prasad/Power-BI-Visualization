@@ -57,7 +57,7 @@ Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Da
 
 ## Euro Debt Crisis
 
-Inport [CSV]{https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-EuroDebtCrisis.csv) file into Power BI and Generate [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/EuroDebt%20Crissis.pdf)
+Import [CSV](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/Datasets/P6-EuroDebtCrisis.csv) file into Power BI and Generate [Reports](https://github.com/varma-prasad/Power-BI-Visualization/blob/main/EuroDebt%20Crissis.pdf)
 
 * Analyse Creditor and Debtor amout across each nation in the Europe continent against thir Risk status.
 * Chord and Tree Map used to understand credit/ debit given/recieved by each nation with respect to other nations and visualise their risk status
